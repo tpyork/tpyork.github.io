@@ -32,8 +32,18 @@ site: distill::distill_website
 # add social media addresses; add target to open in new page
 url: "https://linkedin.com/in/timothy-york-40b972160 target = '_blank' "
 
-# stage, commit, push to GitHub
+# build website again; stage, commit, push to GitHub
 
+# in GitHub go to Settings / Pages
+# Deploy from Branch  
+# main  /  /docs  and then hit Save
+
+# More Resources - Jenny Sloane !!
+# https://www.youtube.com/playlist?list=PLpZT7JPM8_GZlqEssUJ6ABm0rblI1cBEW
+
+# Quarto
+# https://drganghe.github.io/quarto-academic-site-examples.html
+# https://github.com/drganghe/quarto-academic-website-template
 
 
 
